@@ -1,0 +1,13 @@
+.survey-text {
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+    margin-right: 10px;
+    text-align: justify;
+}
+.yes-button {
+    vertical-align: middle;
+}
+.no-button {
+    vertical-align: middle;
+}
